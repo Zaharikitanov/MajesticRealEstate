@@ -1,0 +1,77 @@
+.dropdown-menu.estate {
+    top: 77%;
+    left: 14px;
+}
+.dropdown-menu.estate li{
+    padding-right:7px;
+}
+.dropdown-menu.estate li input{
+    margin: 3px 5px 0px 8px;
+    vertical-align: text-top;
+}
+.btn.estateTypeBtn, .btn.estateRegionBtn, .btn.estateNeighborhoodBtn{
+    white-space: normal;
+    width: 100%;
+    word-wrap: break-word;
+}
+.horizontal-divider {
+    border-top:1px solid #eee;
+    padding-top: 20px;
+    margin-top: 15px;
+}
+.mce-in, .mce-branding-powered-by, .loading {
+    display: none;
+}
+table.dataTable>thead>tr>th {
+    vertical-align: middle;
+}
+table .fa-info-circle {
+    font-size: 18px;
+}
+.fa.fa-trash-o{
+    color:red;
+}
+.surveysCount {
+    display: inline-block;
+    position: absolute;
+    top: -5px;
+    left: 18px;
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    width: 16px;
+    text-align: center;
+    font-size: 12px;
+}
+.surveysWrapper {
+    display: inline-block;
+    position: relative;
+    padding-right: 10px;
+}
+.surveysWrapper .fa.fa-eye.fa-fw, .fa.editIcon {
+    font-size: 20px;
+}
+.nav>li>a.dropdown-toggle:hover{
+    background-color:transparent;
+}
+button.dropdown-toggle{
+    padding: 15px;
+    min-height: 50px;
+    position: relative;
+    display: block;
+    color: #337ab7;
+    cursor: pointer;
+    font-weight: 700;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    border-radius: 8px;
+}
+button.btn-primary {
+    font-weight: 700;
+}
+.navbar-top-links {
+    padding: 15px;
+}
+.navbar-top-links .dropdown {
+    cursor: pointer;
+}
